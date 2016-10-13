@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2015
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageFlipping-master.CSharp", "PageFlipping-master.CSharp.csproj", "{DA010BEC-DD1A-2E8C-6C3F-E65474C814B9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PageFlipping-master.CSharp.Editor", "PageFlipping-master.CSharp.Editor.csproj", "{AA424D68-196F-7CEE-422E-7D1E97E2D163}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DA010BEC-DD1A-2E8C-6C3F-E65474C814B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA010BEC-DD1A-2E8C-6C3F-E65474C814B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA010BEC-DD1A-2E8C-6C3F-E65474C814B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA010BEC-DD1A-2E8C-6C3F-E65474C814B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AA424D68-196F-7CEE-422E-7D1E97E2D163}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AA424D68-196F-7CEE-422E-7D1E97E2D163}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AA424D68-196F-7CEE-422E-7D1E97E2D163}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AA424D68-196F-7CEE-422E-7D1E97E2D163}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
